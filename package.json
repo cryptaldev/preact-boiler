@@ -1,8 +1,9 @@
 {
-  "name": "preact-sfs",
+  "name": "preact-boiler",
   "private": true,
   "version": "0.1.0",
   "license": "MIT",
+  "author": "cryptaldev",
   "scripts": {
     "start": "per-env",
     "build": "preact build --no-prerender",
